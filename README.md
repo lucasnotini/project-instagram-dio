@@ -16,7 +16,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 ## 🖥️ Demonstração
 
-![](print imgur)   
+![](https://i.imgur.com/wcHQUGw.png)   
 
 - Você pode acessar o projeto clicando <a href="#">aqui</a>.
 
