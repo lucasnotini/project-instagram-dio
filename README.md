@@ -1,10 +1,24 @@
-# Oi, tudo bem? Chegou aqui através do curso, certo? 🙃
+<h1 align="center"> 📱 Projeto Página Login Instagram </h1>
 
-Esse é o repositório da nossa aula de Flexbox, na qual vamos fazer a interface de login do Instagram! 
+## 💻 Sobre o projeto
 
-### Os requisitos são:
+O objetivo desse projeto era exercitar **Flexbox** para fins de responsividade. 
 
-* [HTML básico](https://www.w3schools.com/html/)
-* [CSS básico](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
+---
 
-## 🚀 Let's code! 🚀
+## 🛠 Tecnologias e ferramentas utilizadas:
+
+As seguintes ferramentas foram usadas na construção do projeto:
+
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+## 🖥️ Demonstração
+
+![](print imgur)   
+
+- Você pode acessar o projeto clicando <a href="#">aqui</a>.
+
+
+Criado por [Lucas Notini](https://github.com/lucasnotini)
